@@ -1,5 +1,7 @@
 # Whale-Flask
 
+<strong>In Progress</strong>
+
 ## Polling Application
 
 Whale-Flask is a simple polling application built with Flask. Users can register, log in, and participate in multiple-choice polls on various topics. At the end of the polling period, a summary and visualizations of the results will be provided. 
